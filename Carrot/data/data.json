@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "책상",
+        "price": "50,000원",
+        "region": "서울",
+        "imgLink": "../images/marissa-grootes-D4jRahaUaIc-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "name": "의자",
+        "price": "20,000원",
+        "region": "은평구",
+        "imgLink": "../images/marissa-grootes-D4jRahaUaIc-unsplash.jpg"
+    },
+    {
+        "id": 3,
+        "name": "가방",
+        "price": "40,000원",
+        "region": "서울대입구역",
+        "imgLink": "../images/marissa-grootes-D4jRahaUaIc-unsplash.jpg"
+    },
+    {
+        "id": 4,
+        "name": "책",
+        "price": "5,000원",
+        "region": "동대문",
+        "imgLink": "../images/marissa-grootes-D4jRahaUaIc-unsplash.jpg"
+    },
+    {
+        "id": 5,
+        "name": "옷",
+        "price": "25,000원",
+        "region": "동대문",
+        "imgLink": "../images/marissa-grootes-D4jRahaUaIc-unsplash.jpg"
+    },
+    {
+        "id": 6,
+        "name": "책상",
+        "price": "50,000원",
+        "region": "서울",
+        "imgLink": "../images/marissa-grootes-D4jRahaUaIc-unsplash.jpg"
+    },
+    {
+        "id": 7,
+        "name": "책상",
+        "price": "50,000원",
+        "region": "서울",
+        "imgLink": "../images/marissa-grootes-D4jRahaUaIc-unsplash.jpg"
+    },
+    {
+        "id": 8,
+        "name": "책상",
+        "price": "50,000원",
+        "region": "서울",
+        "imgLink": "../images/marissa-grootes-D4jRahaUaIc-unsplash.jpg"
+    },
+    {
+        "id": 9,
+        "name": "책상",
+        "price": "50,000원",
+        "region": "서울",
+        "imgLink": "../images/marissa-grootes-D4jRahaUaIc-unsplash.jpg"
+    },
+    {
+        "id": 10,
+        "name": "책상",
+        "price": "50,000원",
+        "region": "서울",
+        "imgLink": "../images/marissa-grootes-D4jRahaUaIc-unsplash.jpg"
+    },
+    {
+        "id": 11,
+        "name": "책상",
+        "price": "50,000원",
+        "region": "서울",
+        "imgLink": "../images/marissa-grootes-D4jRahaUaIc-unsplash.jpg"
+    },
+    {
+        "id": 12,
+        "name": "책상",
+        "price": "50,000원",
+        "region": "서울",
+        "imgLink": "../images/marissa-grootes-D4jRahaUaIc-unsplash.jpg"
+    }
+]
